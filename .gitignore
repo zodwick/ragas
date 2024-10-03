@@ -141,7 +141,7 @@ venv.bak/
 .ropeproject
 
 
-
+/site
 # mypy
 .mypy_cache/
 .dmypy.json

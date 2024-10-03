@@ -166,13 +166,7 @@ plugins:
       execute: false
       include: ["*.ipynb"]
       ignore: ["*.md"]
-      jupyter_options:
-        hide_input: false
-        hide_output: false
-        code_folding: true
-        code_line_numbers: true
-        jupyter_images: true
-        jupyter_table_beautifier: true
+
   - glightbox
   - literate-nav:
       nav_file: SUMMARY.md
